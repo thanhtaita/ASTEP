@@ -1,4 +1,4 @@
-ASTEP - Your AI Companion to Fulfill Your Life and Embrace the Moment
+**ASTEP - Your AI Companion to Fulfill Your Life and Embrace the Moment
 
 Complete Plan: [link](https://docs.google.com/document/d/1nr0Ld_mxX41cQNUTgtvx-MWK3_mwpmD31EJ1Nff5yJ4/edit#heading=h.u8zx7nswkmlk)
 
